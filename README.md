@@ -87,7 +87,7 @@ public/              Icons
 
 ## Deploying
 
-The app is a fully static page, so it deploys to [Vercel](https://vercel.com/) with no configuration. It also includes `@vercel/analytics`, which you can remove in `app/layout.tsx` if you don't want it.
+The app is a fully static page, so it deploys to [Vercel](https://vercel.com/) with no configuration. It also includes `@vercel/analytics`, which you can remove in `app/layout.tsx` if you don't want it. test
 
 ## Disclaimer
 
